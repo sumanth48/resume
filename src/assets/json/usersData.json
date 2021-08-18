@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "kumar",
+        "email": "kumar@gmail.com",
+        "phno": 789654121
+    },
+    {
+        "id": 2,
+        "name": "prasad",
+        "email": "prasad@gmail.com",
+        "phno": 789654122
+    },
+    {
+        "id": 3,
+        "name": "sumanth",
+        "email": "sumanth@gmail.com",
+        "phno": 789654123
+    },
+    {
+        "id": 4,
+        "name": "navveen",
+        "email": "naveen@gmail.com",
+        "phno": 789654124
+    },
+    {
+        "id": 5,
+        "name": "sunil",
+        "email": "sunil@gmail.com",
+        "phno": 789654125
+    }
+]
+
+
